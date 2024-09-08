@@ -24,7 +24,7 @@ def ages():
 st.subheader(f"🎉🎂 Happy Birthday, {name}! 🎂🎉")
 st.write(f"To the most **amazing**, **gorgeous**, and **awesome** friend in the world, you’re {ages()} years of pure magic! ✨💕")
 
-st.write("Here’s to another year of making **me** the luckiest person on the planet 🌎, and you being as fabulous as ever! 🎁💫")
+st.write("Your birthday is the first day of another 365-day journey. Be the shining thread in the beautiful tapestry of the world to make this year the best ever. Enjoy the ride🎁💫")
 
 # Fun fact or joke
 st.write("You must have **superpowers**, because every year you grow older, but somehow you’re just getting more and more **beautiful**! 😍✨")
